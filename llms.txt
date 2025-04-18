@@ -1,0 +1,20 @@
+# Huungard & Jaand Architektur – AI Content Index
+> Nachhaltiges Bauen, Architekturplanung, Passivhäuser, Tiny Houses
+
+## Info
+- https://ai.huungard-jaand.de/chunks/info.md
+
+## Über uns
+- https://ai.huungard-jaand.de/chunks/ueber-uns.md
+
+## Leistungen
+- https://ai.huungard-jaand.de/chunks/leistungen.md
+
+## Projekte
+- https://ai.huungard-jaand.de/chunks/projekte.md
+
+## Nachhaltigkeit
+- https://ai.huungard-jaand.de/chunks/nachhaltigkeit.md
+
+## Kontakt
+- https://ai.huungard-jaand.de/chunks/kontakt.md

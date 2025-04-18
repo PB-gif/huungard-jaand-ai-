@@ -1,0 +1,10 @@
+{
+  "chunks": [
+    { "title": "Info", "url": "/chunks/info.md" },
+    { "title": "Über uns", "url": "/chunks/ueber-uns.md" },
+    { "title": "Leistungen", "url": "/chunks/leistungen.md" },
+    { "title": "Projekte", "url": "/chunks/projekte.md" },
+    { "title": "Nachhaltigkeit", "url": "/chunks/nachhaltigkeit.md" },
+    { "title": "Kontakt", "url": "/chunks/kontakt.md" }
+  ]
+}
